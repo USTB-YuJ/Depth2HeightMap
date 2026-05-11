@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: depth-elevation
+Version: 0.1.0
+Summary: Depth image to elevation map pipeline (Isaac Lab, image_plane convention)
+License: BSD-3-Clause
+Requires-Python: >=3.8
+Requires-Dist: numpy>=1.20
